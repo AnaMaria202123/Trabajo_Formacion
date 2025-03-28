@@ -9,6 +9,7 @@ import Click from "./Click"
 import ClickDatos from "./ClickDatos"
 import Change from "./Change"
 import Ejercicio from "./Ejercicio"
+import Formulario from "./formulario"
 
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
     <ClickDatos></ClickDatos>
     <Change></Change>
     <Ejercicio></Ejercicio>
+    <Formulario></Formulario>
     
    </div>
   )

@@ -18,13 +18,13 @@ body {
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Imagen */
+
 .product-card img {
   width: 100%;
   border-radius: 8px;
 }
 
-/* Texto */
+
 .product-card p {
   font-size: 14px;
   font-weight: bold;
