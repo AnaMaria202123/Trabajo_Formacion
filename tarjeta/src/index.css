@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+.product-card {
+  width: 300px;
+  padding: 15px;
+  text-align: center;
+  border-radius: 10px;
+  background: #9ed4b2; /* Color de fondo de la tarjeta */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Imagen */
+.product-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+/* Texto */
+.product-card p {
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+  padding: 10px;
+}

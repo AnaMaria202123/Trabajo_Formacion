@@ -1,0 +1,13 @@
+1. instalacion node
+2. revision instalacion node
+3. crear proyecto react ts npm create vite@latest proyecto1 --template react-ts
+
+node --version
+npm create vite@latest proyecto1 --template react-ts
+Ok to proceed? (y) y
+react
+typescript
+
+cd proyecto1
+npm install
+npm run dev
