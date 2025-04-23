@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./Home/Home";
-import Nav from "./Nav";
-import Api1 from "./Api1";
-import Api2 from "./Api2";
-import Api3 from "./Api3";
+import Nav from "./Componente/Nav";
+import Api1 from "./Pages/Api1";
+import Api2 from "./Pages/Api2";
+import Api3 from "./Pages/Api3";
 
 function App() {
   return (
